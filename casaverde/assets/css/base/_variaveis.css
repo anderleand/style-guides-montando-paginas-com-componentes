@@ -1,0 +1,29 @@
+
+ /* @import url('https://fonts.googleapis.com/css2?family=Elsie+Swash+Caps:wght@900&family=Montserrat:wght@400;700&display=swap'); */
+
+:root{
+    
+    --clr-white: #FFFFFF;
+    --clr-yellow: #FFCB47;
+    --clr-yellow-shadow: #FFCB473D;
+    --clr-grey: #909090;
+    --clr-black: #202020;
+    --clr-black-shadow: #0000000F;
+
+    --ff-body: 'Montserrat', sans-serif;
+    --ff-title: 'Elsie Swash Caps', cursive;
+    
+    --fw-title-featured: 900;
+    --fw-button: 700;
+    --fw-featured: 700;
+
+
+
+    --fs-body: 1rem;
+    --fs-title: 1.375rem;
+    --fs-title-featured: 2rem;
+    --fs-featured: 1.375rem;
+
+
+
+}

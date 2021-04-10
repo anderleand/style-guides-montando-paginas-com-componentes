@@ -13,4 +13,4 @@
 
 ---
 
-Treinamento realizado na [Alura](https://cursos.alura.com.br/course/guia-estilos-paginas-componentes) com mentoria do instrutor Matheu Alberto
+Treinamento realizado na [Alura](https://cursos.alura.com.br/course/guia-estilos-paginas-componentes) com mentoria do instrutor Matheus Alberto

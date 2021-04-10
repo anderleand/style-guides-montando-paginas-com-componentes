@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ecmel.vscode-html-css",
+        "pkief.material-icon-theme",
+        "formulahendry.auto-rename-tag",
+        "ritwickdey.liveserver"
+    ]
+}

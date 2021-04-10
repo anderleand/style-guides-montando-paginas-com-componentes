@@ -1,0 +1,24 @@
+
+.botao{
+    background-color: var(--clr-yellow);
+
+    text-align: center;
+    font-family: inherit;
+    font-weight: var(--fw-button);
+    color: var(--clr-white);
+
+    width: 100%;
+    padding-top: 1.75rem;
+    padding-bottom: 1.75rem;
+
+    box-shadow: 10px 10px 30px var(--clr-yellow-shadow);
+
+    border: none;
+}
+
+.botao--alternativo{
+    color: var(--clr-yellow);
+    background-color: transparent;
+    box-shadow: none;
+    border: 1px solid var(--clr-yellow);
+}
